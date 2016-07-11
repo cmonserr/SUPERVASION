@@ -5,20 +5,20 @@ In this GitHub entry, we present some features related to the work sent to the I
 
 The files that can be found in this entry are:
 
-1.- fifteenth_approx.lp: that contains the XHAIL code of the scenario B.
+1.- fifteenth_approx.lp: that contains the XHAIL code of the scenario A.
 
-2.- ninth_approx_2.lp: that contains the XHAIL code of the scenario A.
+2.- ninth_approx_2.lp: that contains the XHAIL code of the scenario B.
 
-2.- real_events.pdf: a graph that shows the low-level events contained in the narrative of the scenario B.
+2.- real_events.pdf: a graph that shows the low-level events contained in the narrative of the scenario A.
 
-3.- real_fluent_graph.pdf: a graph that shows the low-level fluents (in black) and high-level fluents (blue) contained in the narrative and the examples provided in scenario B.
+3.- real_fluent_graph.pdf: a graph that shows the low-level fluents (in black) and high-level fluents (blue) contained in the narrative and the examples provided in scenario A.
 
-4.- real_fluent_graph_detect.pdf: a graph that shows the vertical bands that are the temporal windows for the initiatesF/2 (the left one in each high-level fluent) and for the terminatesF/2 (the right one in each high-level fluent) obtained from the rules learned in scenario A.
+4.- real_fluent_graph_detect.pdf: a graph that shows the vertical bands that are the temporal windows for the initiatesF/2 (the left one in each high-level fluent) and for the terminatesF/2 (the right one in each high-level fluent) obtained from the rules learned in scenario B.
 
-5.- synthetic_events.pdf: a graph that shows the low-level events contained in the narrative of the scenario A.
+5.- synthetic_events.pdf: a graph that shows the low-level events contained in the narrative of the scenario B.
 
-6.- synthetic_fluents.pdf: a graph that shows the low-level fluents (in black) and high-level fluents (blue) contained in the narrative and the examples provided in scenario A.
+6.- synthetic_fluents.pdf: a graph that shows the low-level fluents (in black) and high-level fluents (blue) contained in the narrative and the examples provided in scenario B.
 
-7- synthetic_fluents_detect.pdf: a graph that show the vertical bands that are the temporal windows for the initiatesF/2 (the left one in each high-level fluent) and for the terminatesF/2 (the right one in each high-level fluent) obtained from the rules learned in scenario B.
+7- synthetic_fluents_detect.pdf: a graph that show the vertical bands that are the temporal windows for the initiatesF/2 (the left one in each high-level fluent) and for the terminatesF/2 (the right one in each high-level fluent) obtained from the rules learned in scenario A.
 
-8.- synthetic_fluents_detect_mod.pdf: the same graph that synthetic_fluents_detect.pdf shows but removing the presence of the tool i1 from bin g2 in the rules learned from scenario B. This rule modification has suggested by experts and demonstrates the easy supervision of the learning and ease modification of the fules learned. Modification done by experts without deep knowledge in computer programming. 
+8.- synthetic_fluents_detect_mod.pdf: the same graph that synthetic_fluents_detect.pdf shows but removing the presence of the tool i1 from bin g2 in the rules learned from scenario A. This rule modification has suggested by experts and demonstrates the easy supervision of the learning and ease modification of the fules learned. Modification done by experts without deep knowledge in computer programming. 
