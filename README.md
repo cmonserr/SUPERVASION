@@ -7,6 +7,8 @@ The files that can be found in this entry are:
 
 1.- fifteenth_approx.lp: that contains the XHAIL code of the scenario B.
 
+2.- ninth_approx_2.lp: that contains the XHAIL code of the scenario A.
+
 2.- real_events.pdf: a graph that shows the low-level events contained in the narrative of the scenario B.
 
 3.- real_fluent_graph.pdf: a graph that shows the low-level fluents (in black) and high-level fluents (blue) contained in the narrative and the examples provided in scenario B.
