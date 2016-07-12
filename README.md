@@ -21,4 +21,4 @@ The files that can be found in this entry are:
 
 7- synthetic_fluents_detect.pdf: a graph that show the vertical bands that are the temporal windows for the initiatesF/2 (the left one in each high-level fluent) and for the terminatesF/2 (the right one in each high-level fluent) obtained from the rules learned in scenario A.
 
-8.- synthetic_fluents_detect_mod.pdf: the same graph that synthetic_fluents_detect.pdf shows but removing the presence of the tool i1 from bin g2 in the rules learned from scenario A. This rule modification has suggested by experts and demonstrates the easy supervision of the learning and ease modification of the fules learned. Modification done by experts without deep knowledge in computer programming. 
+8.- synthetic_fluents_detect_mod.pdf: the same graph as synthetic_fluents_detect.pdf shows but removing the presence of the tool i1 from bin g2 in the rules learned from scenario A. This rule modification has suggested by experts and demonstrates the easy supervision of the learning and ease modification of the rules learned. Modification done by experts without deep knowledge in computer programming. 
