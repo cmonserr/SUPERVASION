@@ -1,2 +1,2 @@
 #SUPERVASION FIGURES.
-## Here is contained the figures used in the wiki of SUPERVASION gitub entry.
+## Here are the figures used in the wiki of the SUPERVASION gitub entry.
